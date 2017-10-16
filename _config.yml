@@ -29,7 +29,7 @@ disqus: false
 disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'github']
 
 # theme color 主题皮肤
