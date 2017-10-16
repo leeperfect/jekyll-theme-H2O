@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'http://liaokeyu.com' # your host
+title: '一字入心'
+description: '热爱阅读，思考与写作；崇尚原则为本，极简主义，工匠精神；坚信时间就是力量，知识就是金钱。'
+keyword: 'oneword,一字入心,一字老师,小题大作,阅读,思考,写作,设计,Reading,Thinking,Writing,Design'
+url: 'http://oneword.pro' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -13,16 +13,16 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: '一字老师'
+nickname: 'Mr.Perfect'
+bio: '原则为本·极简主义·工匠精神'
+avatar: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/myfoto-lite.jpg?x-oss-process=style/100-100&Expires=1508172126&OSSAccessKeyId=TMP.AQE3CaNABcYfh_s878mqbBJMvMANec251BrvJHhWdzvflwbYL4dl7brJ0hl4MC4CFQDOMT1TLIFrsyBflXPzXLcJtGbEGwIVAOR9PGYHSWoUSeqFslBGxaYS8r-6&Signature=4IXyn9FEUixjFX29XZagRofMr3Q%3D'
 
 # Search
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments
 disqus: false
@@ -40,17 +40,15 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  zhihu: '//zhihu.com/people/iperlee'
+  jianshu: '//www.jianshu.com/users/47fed7735c2d'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
-paginate: 6
+paginate: 20
 paginate_path: 'page:num'
 exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
