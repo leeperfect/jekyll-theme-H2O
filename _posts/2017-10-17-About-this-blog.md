@@ -4,7 +4,7 @@ title: 'About This Blog'
 subtitle: 'My Personal Space'
 date: 2017-10-17
 categories: 思考随笔
-cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_00-22-29.jpg?Expires=1508174264&OSSAccessKeyId=TMP.AQE3CaNABcYfh_s878mqbBJMvMANec251BrvJHhWdzvflwbYL4dl7brJ0hl4MC4CFQDOMT1TLIFrsyBflXPzXLcJtGbEGwIVAOR9PGYHSWoUSeqFslBGxaYS8r-6&Signature=8sxoEorD58OirJEcczkYduhxzuE%3D'
+cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_00-22-29.jpg?Expires=1508215314&OSSAccessKeyId=TMP.AQEBRAJDaKsoMkQRxF0XlSXxxyIR4IDWBg5cZ5BP0G0iAPnA8b7m9XJOAAU-MC4CFQDY0SdQfKMbeTjIJIfwGaIw_-DPlAIVAN5T1aEJgaSR1m9WfZl-YpqWpEYS&Signature=7GvOJzyby8lRHa%2BGuq%2BtjwewdmA%3D'
 tags: 价值观 个人 
 ---
 
@@ -53,4 +53,4 @@ Welcome to OneWord.Pro & My World.
 
 ***Slogan** * 精于心，简于形。*
 
-![](http://oneword.oss-cn-hangzhou.aliyuncs.com/TIMEING.png?x-oss-process=style/sise&Expires=1508175015&OSSAccessKeyId=TMP.AQE3CaNABcYfh_s878mqbBJMvMANec251BrvJHhWdzvflwbYL4dl7brJ0hl4MC4CFQDOMT1TLIFrsyBflXPzXLcJtGbEGwIVAOR9PGYHSWoUSeqFslBGxaYS8r-6&Signature=VBvXgR78gM6IeLTPqbhI0IcoAcI%3D)
+![](http://oneword.oss-cn-hangzhou.aliyuncs.com/TIMEING.png?x-oss-process=style/sise&Expires=1508215374&OSSAccessKeyId=TMP.AQEBRAJDaKsoMkQRxF0XlSXxxyIR4IDWBg5cZ5BP0G0iAPnA8b7m9XJOAAU-MC4CFQDY0SdQfKMbeTjIJIfwGaIw_-DPlAIVAN5T1aEJgaSR1m9WfZl-YpqWpEYS&Signature=nwBGm2efD9HQVS87XJ8jCNDB8k8%3DD)
