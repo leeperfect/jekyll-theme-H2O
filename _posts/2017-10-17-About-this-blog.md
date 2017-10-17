@@ -4,7 +4,7 @@ title: 'About This Blog'
 subtitle: 'My Personal Space'
 date: 2017-10-17
 categories: 思考随笔
-cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_00-22-29.jpg?Expires=1508215314&OSSAccessKeyId=TMP.AQEBRAJDaKsoMkQRxF0XlSXxxyIR4IDWBg5cZ5BP0G0iAPnA8b7m9XJOAAU-MC4CFQDY0SdQfKMbeTjIJIfwGaIw_-DPlAIVAN5T1aEJgaSR1m9WfZl-YpqWpEYS&Signature=7GvOJzyby8lRHa%2BGuq%2BtjwewdmA%3D'
+cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_00-22-29.jpg?Expires=1508223970&OSSAccessKeyId=TMP.AQEBRAJDaKsoMkQRxF0XlSXxxyIR4IDWBg5cZ5BP0G0iAPnA8b7m9XJOAAU-MC4CFQDY0SdQfKMbeTjIJIfwGaIw_-DPlAIVAN5T1aEJgaSR1m9WfZl-YpqWpEYS&Signature=QnYp0xMtSITCno0UH%2BCm0qyXVvM%3D'
 tags: 价值观 个人 
 ---
 
