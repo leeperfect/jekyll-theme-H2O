@@ -4,7 +4,7 @@ title: '公务员考试为何反培训'
 subtitle: '反培训'
 date: 2017-10-18
 categories: 思考随笔
-cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_12-57-52.jpg?Expires=1508223907&OSSAccessKeyId=TMP.AQEBRAJDaKsoMkQRxF0XlSXxxyIR4IDWBg5cZ5BP0G0iAPnA8b7m9XJOAAU-MC4CFQDY0SdQfKMbeTjIJIfwGaIw_-DPlAIVAN5T1aEJgaSR1m9WfZl-YpqWpEYS&Signature=9DYPpqHYCbHTCbV7jyLQ0xSM%2Fc0%3D'
+cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_12-57-52.jpg'
 tags: 思考随笔 培训 学习 
 ---
 
