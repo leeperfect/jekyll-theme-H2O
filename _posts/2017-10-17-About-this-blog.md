@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'About This Blog'
-subtitle: 'My Personal Space'
+subtitle: '开篇语'
 date: 2017-10-17
 categories: 思考随笔
 cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/2017-03-12_00-22-29.jpg'
