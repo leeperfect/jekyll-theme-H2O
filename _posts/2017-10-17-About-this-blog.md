@@ -53,4 +53,4 @@ Welcome to OneWord.Pro & My World.
 
 ***Slogan** * 精于心，简于形。*
 
-![](http://oneword.oss-cn-hangzhou.aliyuncs.com/TIMEING.png?x-oss-process=style/sise&Expires=1508215758&OSSAccessKeyId=TMP.AQEBRAJDaKsoMkQRxF0XlSXxxyIR4IDWBg5cZ5BP0G0iAPnA8b7m9XJOAAU-MC4CFQDY0SdQfKMbeTjIJIfwGaIw_-DPlAIVAN5T1aEJgaSR1m9WfZl-YpqWpEYS&Signature=v1UkxSnXH3d2YKiMs4mW3SIDm%2BI%3D)
+![](http://oneword.oss-cn-hangzhou.aliyuncs.com/Namefoto/TIMEING-lite.png?x-oss-process=style/sise)
