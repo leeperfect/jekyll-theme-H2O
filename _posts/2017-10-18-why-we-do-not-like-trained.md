@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '公务员考试为何反培训'
+title: '00002-公务员考试为何反培训'
 subtitle: '反培训'
 date: 2017-10-18
 categories: 思考随笔
