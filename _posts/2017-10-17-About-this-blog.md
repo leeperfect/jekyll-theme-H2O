@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '001-About This Blog'
+title: '00001-About This Blog'
 subtitle: '开篇语'
 date: 2017-10-17
 categories: 思考随笔
