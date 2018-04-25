@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '00003-I Begin to Build Perfect's Principles at Thirty'
-subtitle: '三十而立'
+title: '00003-I Begin to Build Perfects Principles at Thirty'
+subtitle: '开篇语'
 date: 2018-04-25
 categories: 思考随笔
-cover: 'https://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81%20%E5%9C%B0%E5%B9%B3%E7%BA%BF3.jpg'
+cover: 'http://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81%20%E5%9C%B0%E5%B9%B3%E7%BA%BF3.jpg'
 tags: 价值观 个人 
 ---
 
