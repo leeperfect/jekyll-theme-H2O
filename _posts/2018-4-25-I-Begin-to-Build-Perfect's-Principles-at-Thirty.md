@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: '00003-三十而立'
