@@ -4,7 +4,7 @@ title: '00004-「高效能」的定义'
 subtitle: '高效能的公式'
 date: 2018-09-09
 categories: 思考随笔
-cover: 'https://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/6%E4%BA%A4%E9%80%9A-%E5%85%AC%E8%B7%AFhighway-21976836.jpg?x-oss-process=style/sise'
+cover: 'https://oneword.oss-cn-hangzhou.aliyuncs.com/Cover/6%E4%BA%A4%E9%80%9A-%E5%85%AC%E8%B7%AFhighway-21976836.jpg'
 tags: 价值观 个人 
 ---
 
